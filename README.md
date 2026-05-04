@@ -12,7 +12,7 @@ It follows the journey of Son Goku, a martial artist with extraordinary strength
 - Continues after Dragon Ball Z
 - Expands the universe with gods, multiverse tournaments, and new transformations
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 A  | Row 1 B  | Row 1 C  |
-| Row 2 A  | Row 2 B  | Row 2 C  |
+| Dragon Ball |
+|-------------|
+| Focuses on Goku’s childhood and early adventures |
+| Emphasizes martial arts tournaments, exploration, and comedy |
