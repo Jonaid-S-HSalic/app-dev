@@ -20,9 +20,15 @@ It follows the journey of Son Goku, a martial artist with extraordinary strength
 | Continues after Dragon Ball Z |
 | Expands the universe with gods, multiverse tournaments, and new transformations |
 
-# Main Characters
+## Main Characters
 - Son Goku – The main protagonist, a pure-hearted Saiyan warrior
 - Vegeta – Prince of the Saiyan race and Goku’s rival
 - Gohan – Goku’s son, gifted with immense hidden potential
 - Piccolo – A Namekian warrior who evolves from enemy to ally
 - Bulma – Brilliant scientist and one of Goku’s earliest friends
+
+## Key Concepts
+- *Ki Energy – Life force used for powerful attacks*
+- *Dragon Balls – Seven magical orbs that summon Shenron*
+- *Transformations – Forms like Super Saiyan that drastically increase power*
+- *Martial Arts Tournaments – Central competitive events in the series*
