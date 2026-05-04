@@ -2,6 +2,8 @@
 Dragon Ball is a science fantasy world created by Akira Toriyama, originally inspired by Journey To The West, and later inspired by D.C's Superman, Star Wars, and Terminator.
 It follows the journey of Son Goku, a martial artist with extraordinary strength, as he searches for the mystical Dragon Balls that can summon a wish-granting dragon.
 
+## Canon Series List
+
 | Dragon Ball |
 |-------------|
 | Focuses on Goku’s childhood and early adventures |
