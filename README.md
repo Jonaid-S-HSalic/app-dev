@@ -1,2 +1,39 @@
-# app-dev
-My first repository
+# Information About My Favorite Series: Dragon Ball
+Dragon Ball is a science fantasy world created by Akira Toriyama, originally inspired by Journey To The West, and later inspired by D.C's Superman, Star Wars, and Terminator.
+It follows the journey of Son Goku, a martial artist with extraordinary strength, as he searches for the mystical Dragon Balls that can summon a wish-granting dragon.
+
+## Canon Series List
+
+| Dragon Ball |
+|-------------|
+| Focuses on Goku’s childhood and early adventures |
+| Emphasizes martial arts tournaments, exploration, and comedy |
+
+| Dragon Ball Z |
+|-------------|
+| Introduces Goku’s adult life and Saiyan heritage |
+| Features intense battles against powerful enemies like Frieza, Cell, and Majin Buu |
+| Known for high-stakes fights and iconic transformations (e.g., Super Saiyan) |
+
+| Dragon Ball Super |
+|-------------|
+| Continues after Dragon Ball Z |
+| Expands the universe with gods, multiverse tournaments, and new transformations |
+
+## Main Characters
+- *Son Goku – The main protagonist, a pure-hearted Saiyan warrior*
+- *Vegeta – Prince of the Saiyan race and Goku’s rival*
+- *Gohan – Goku’s son, gifted with immense hidden potential*
+- *Piccolo – A Namekian warrior who evolves from enemy to ally*
+- *Bulma – Brilliant scientist and one of Goku’s earliest friends*
+
+## Key Concepts
+- *Ki Energy – Life force used for powerful attacks*
+- *Dragon Balls – Seven magical orbs that summon Shenron*
+- *Transformations – Forms like Super Saiyan that drastically increase power*
+- *Martial Arts Tournaments – Central competitive events in the series*
+
+## Legacy
+- *One of the best-selling manga series of all time*
+- *Strong influence on global anime culture*
+- *Inspired countless modern shonen anime such as Naruto and One Piece*
