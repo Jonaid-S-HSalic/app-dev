@@ -19,3 +19,10 @@ It follows the journey of Son Goku, a martial artist with extraordinary strength
 |-------------|
 | Continues after Dragon Ball Z |
 | Expands the universe with gods, multiverse tournaments, and new transformations |
+
+# Main Characters
+- Son Goku – The main protagonist, a pure-hearted Saiyan warrior
+- Vegeta – Prince of the Saiyan race and Goku’s rival
+- Gohan – Goku’s son, gifted with immense hidden potential
+- Piccolo – A Namekian warrior who evolves from enemy to ally
+- Bulma – Brilliant scientist and one of Goku’s earliest friends
